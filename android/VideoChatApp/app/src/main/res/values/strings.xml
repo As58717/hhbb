@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Omni Compose</string>
+    <string name="nearby">附近同城</string>
+    <string name="random">随机视频</string>
+    <string name="chat">聊天</string>
+    <string name="profile">我的</string>
+</resources>
